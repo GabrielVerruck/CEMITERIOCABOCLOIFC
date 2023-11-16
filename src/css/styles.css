@@ -24,6 +24,7 @@ p {
   color: #555;
   margin: 1rem 0;
   font-size: 18px;
+  text-align: justify;
 }
 
 strong {
