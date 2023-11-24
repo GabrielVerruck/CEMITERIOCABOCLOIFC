@@ -142,6 +142,10 @@ h1 {
   color: white;
 }
 
+#footer_text {
+  color: white;
+}
+
 @media (max-width: 768px) {
   main {
     width: 90%;
